@@ -4,4 +4,4 @@
 
 - [Pensamento Computacional]()
 - [Ambiente de desenvolvimento]()
-- [JavaScript]()
+- [JavaScript](https://github.com/martinezrafael/curvadeaprendizado/blob/main/JavaScript)
