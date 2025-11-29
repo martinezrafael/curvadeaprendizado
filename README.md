@@ -3,5 +3,6 @@
 **O que vamos aprender**
 
 - [Pensamento Computacional]()
-- [Ambiente de desenvolvimento]()
+- [Ambiente de Desenvolvimento]()
 - [JavaScript](https://github.com/martinezrafael/curvadeaprendizado/blob/main/JavaScript)
+- [Desafios Práticos]()
