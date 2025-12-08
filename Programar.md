@@ -68,3 +68,35 @@ Um aspecto interessante é diferenciar os processos de **compilação** e **inte
 Cada abordagem tem suas vantagens e desvantagens, impactando tanto a velocidade de execução quanto a facilidade de desenvolvimento e adaptação a diferentes plataformas.
 
 Esse entendimento acerca da jornada do código - da linguagem escrita até os sinais binários que comandam o hardware - é fundamental para compreender a profundidade e a complexidade que estão por trás do ato de programar.
+
+## Para saber mais: bibliotecas e frameworks
+
+Quando começamos a aprender programação e desenvolvimento de software, é comum encontrarmos termos como framework e biblioteca. Ambas são ferramentas que ajudam pessoas desenvolvedoras a escrever menos código e resolver problemas de forma mais rápida, mas funcionam de maneiras diferentes. Vamos entender melhor cada uma delas, a seguir.
+
+**Biblioteca: uma coleção de ferramentas úteis**
+
+Uma biblioteca é como uma caixa de ferramentas com funções especifícas já prontas que você pode usar no seu código para não ter que escrever tudo do zero.
+
+Por exemplo, se você precisa fazer um cálculo complicado ou mostrar uma animação, em vez de criar tudo do início, pode usar uma biblioteca que já tem essa função pronta. Você escolhe quando e como usar essas ferramentas no seu código.
+
+```
+Um ótimo exemplo de biblioteca é a jQuery, mencionada anteriormente em vídeo, que facilita a
+manipulação de elementos de uma página HTML, sem que você precise escrever comandos complexos.
+```
+
+**Framework: uma estrutura para seguir**
+
+Um framework é uma estrutura pronta que ajuda você a construir um projeto de forma mais organizada e eficiente. Ele já vem com várias regras, funções e caminhos definidos - como se fosse um molde ou uma base para começar a construir.
+
+A principal diferença em relação a uma biblioteca é o controle do fluxo: com uma biblioteca, você chama o que quiser, quando quiser. Com um framework, é ele quem chama partes do seu código no momento certo. Ou seja, você encaixa seu código dentro do que o framework já espera - isso é conhecido como inversão de controle.
+
+Pense em um framework como um kit de montar móveis com manual: ele já traz as peças, o passo a passo e até algumas ferramentas. Você segue o plano e monta o móvel mais rápido, com menos chances de erro. E sim, um framework pode conter várias bibliotecas - e isso é bastante comum!
+
+```
+Um exemplo de framework é o Angular (usado para criar aplicações web). Ele já vem com: uma biblioteca
+para lidar com formulários, outra para fazer requisições HTTP, outra para trabalhar com rotas (endereços da aplicação) e muito mais...
+```
+
+**Por que usar essas tecnologias?**
+
+Bibliotecas e frameworks existem para economizar tempo, evitar erros comuns e seguir boas práticas. Em vez de reinventar a roda, você usa soluções que já foram testadas por milhares de pessoas desenvolvedoras. Com o tempo, aprender a escolher e usar essas ferramentas se torna parte do seu crescimento como dev.
