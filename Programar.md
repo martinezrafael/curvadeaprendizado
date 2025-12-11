@@ -100,3 +100,15 @@ para lidar com formulários, outra para fazer requisições HTTP, outra para tra
 **Por que usar essas tecnologias?**
 
 Bibliotecas e frameworks existem para economizar tempo, evitar erros comuns e seguir boas práticas. Em vez de reinventar a roda, você usa soluções que já foram testadas por milhares de pessoas desenvolvedoras. Com o tempo, aprender a escolher e usar essas ferramentas se torna parte do seu crescimento como dev.
+
+## Algoritmos e o pensamento em fluxo
+
+**Compartilhando formas de pensar e analisar problemas**
+
+No dia a dia de uma pessoa desenvolvedora de software, passamos mais tempo lendo e pensando do que escrevendo código incessantemente. Antes de continuarmos a escrever código, é importante compartilhar formas de pensar e analisar problemas, transformando-os em uma sequência de passos.
+
+No nosso primeiro encontro, expliquei uma situação em que cheguei em casa com 6 litros de leite, em vez de apenas um, por causa de um erro de comunicação. Vamos agora traduzir outros problemas em passos a serem seguidos.
+
+**Utilizando ferramentas para criar diagramas**
+
+Para isso, vamos utilizar o Google Chrome e uma receita simples, mas que requer cuidado: macarão instantâneo
